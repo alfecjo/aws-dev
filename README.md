@@ -80,7 +80,7 @@ sam local invoke "HelloWorldFunction" -e events/event.json
 - AWS CLI configurado (aws configure)
 - Python 3.10+ e/ou Java 17+
 - Node.js para CDK
-- Ferramentas opcionais: AWS SAM CLI, Docker, VS Code
+- Ferramentas essenciais: AWS SAM CLI, Docker, VS Code
 
 ---
 
