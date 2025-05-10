@@ -38,7 +38,7 @@
 
 ---
 
-🔗 [![Linguagem](https://img.shields.io/badge/AWS-SAM_App-yellow?style=for-the-badge)](./sam-app)
+🔗 [![Linguagem](https://img.shields.io/badge/AWS-SAM_App-black?style=for-the-badge)](./sam-app)
 
 <p>O projeto sam-app é uma aplicação serverless construída com o AWS SAM (Serverless Application Model), contendo código para uma função Lambda, eventos de teste, testes unitários e o template template.yaml que define os recursos AWS, como Lambda e API Gateway. Ele permite empacotar, testar e implantar facilmente usando o SAM CLI, com suporte ao desenvolvimento local via Docker e depuração integrada através do AWS Toolkit para IDEs. O projeto pode ser executado localmente com sam local, testado com eventos simulados e logado com sam logs, oferecendo um fluxo completo para desenvolvimento, testes, implantação e gerenciamento de aplicações serverless na AWS..</p>
 
