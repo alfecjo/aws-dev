@@ -32,6 +32,12 @@
 
 ---
 
+🔗 [![Linguagem](https://img.shields.io/badge/AWS-Java_Serveless-yellow?style=for-the-badge)](./my-projet-aws)
+
+<p>Este projeto em Java utiliza o AWS Cloud Development Kit (CDK) com Maven para definir e provisionar infraestrutura na AWS como código. Ele serve como base para criar stacks de recursos em nuvem de forma programática, aproveitando os recursos do CDK para compilar, testar e implantar aplicações via comandos como cdk synth e cdk deploy. Ideal para desenvolvedores Java que desejam controlar sua infraestrutura usando uma abordagem moderna, robusta e integrada ao ecossistema AWS.</p>
+
+---
+
 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
 
