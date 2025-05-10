@@ -1,0 +1,14 @@
+repos:
+  - repo: https://github.com/antonbabenko/pre-commit-terraform
+    rev: "v1.77.1"
+    hooks:
+      - id: terraform_fmt
+      - id: terraform_tflint
+      - id: terraform_validate
+      - id: terraform_tfsec
+
+  - repo: https://github.com/thoughtworks/talisman
+    rev: v1.31.0
+    hooks:
+      - id: talisman-commit
+        entry: talisman --githook pre-commit
