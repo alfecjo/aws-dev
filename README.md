@@ -61,29 +61,7 @@
 - 🐍 **Python 3.10+** / ☕ **Java 17+**
 - ⚙️ **Amazon EventBridge, Step Functions, IAM**
 - 📦 **AWS SAM / Serverless Framework**
-- 📓 **Jupyter Notebooks para prototipagem**
-
----
-
-## 📁 Estrutura do Projeto
-
-```bash
-aws-dev/
-├── infra/
-│   ├── templates/
-│   │   └── lambda-apigw-dynamodb.yaml
-│   └── cdk/
-├── services/
-│   ├── lambda-python/
-│   └── lambda-java/
-├── automation/
-│   ├── step-functions/
-│   └── dynamodb-streams/
-├── notebooks/
-│   └── prototipagem-eventbridge.ipynb
-├── requirements.txt
-└── README.md
-```
+- 📓 **Exemplos com Terraform**
 
 ---
 
@@ -101,7 +79,7 @@ aws-dev/
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/aws-dev.git
+git clone https://github.com/alfecjo/aws-dev.git
 cd aws-dev
 
 # Instalar dependências para Python
@@ -109,6 +87,8 @@ pip install -r requirements.txt
 
 # Rodar local com SAM (exemplo Lambda)
 sam local invoke "HelloWorldFunction" -e events/event.json
+
+# Java JDK11+ e SDK para AWS
 ```
 
 ---
@@ -125,8 +105,8 @@ sam local invoke "HelloWorldFunction" -e events/event.json
 ### 🛣️ Em Desenvolvimento
  - Templates CDK para sistemas distribuídos
  - Integração com Amazon SQS e SNS
- - Deploy contínuo com CodePipeline + GitHub Actions
- - Painel de observabilidade com CloudWatch Logs + Dashboards
+ - Aceita deploy contínuo com CodePipeline + GitHub Actions
+ - Painel de observabilidade com CloudWatch Logs + Dashboards ou configure Grafana
  - Arquitetura de microserviços com EventBridge
 
 ---
