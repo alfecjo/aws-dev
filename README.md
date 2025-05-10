@@ -1,6 +1,14 @@
 # ☁️ AWS Dev — Arquitetura e Automação de Serviços na Nuvem
 
-🔗 [![Status](https://img.shields.io/badge/AWS-S3-yellow?style=for-the-badge)](./AWS-lab-S3)
+## 📌 Descrição
+
+📦 Este repositório reúne projetos, templates e automações voltadas ao desenvolvimento e à arquitetura de aplicações cloud-native utilizando **serviços da AWS**. A ênfase está em construir aplicações modernas, resilientes e escaláveis usando **Lambda, API Gateway, DynamoDB, S3, Step Functions**, entre outros.
+
+> ⚠️ **Este projeto está em desenvolvimento.** Algumas soluções ainda estão sendo testadas ou ajustadas.
+
+---
+
+🔗 [![Status](https://img.shields.io/badge/AWS-Site_Estático_Hospedado_em_S3-yellow?style=for-the-badge)](./AWS-lab-S3)
 
 <p>Trata-se de um site estático, o que significa que ele foi construído para ser rápido, seguro e de fácil acesso, utilizando o serviço de armazenamento S3 — ideal para oferecer uma experiência confiável aos nossos convidados.</p>
 
@@ -12,13 +20,7 @@
 
 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
-## 📌 Descrição
 
-Este repositório reúne projetos, templates e automações voltadas ao desenvolvimento e à arquitetura de aplicações cloud-native utilizando **serviços da AWS**. A ênfase está em construir aplicações modernas, resilientes e escaláveis usando **Lambda, API Gateway, DynamoDB, S3, Step Functions**, entre outros.
-
-> ⚠️ **Este projeto está em desenvolvimento.** Algumas soluções ainda estão sendo testadas ou ajustadas.
-
----
 
 ## 🚀 Tecnologias Utilizadas
 
