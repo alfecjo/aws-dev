@@ -26,6 +26,12 @@
 
 ---
 
+🔗 [![Linguagem](https://img.shields.io/badge/React-Python_App-blue?style=for-the-badge)](./catalisty-react-java-app)
+
+<p>Esta aplicação "To Do" é uma solução serverless moderna que combina um front-end em React com TypeScript, hospedado no Amazon S3 com distribuição via CloudFront, e um back-end em Python via AWS Lambda, exposto por uma API REST no API Gateway e persistência de dados no Amazon DynamoDB. A infraestrutura é totalmente gerenciada pelo AWS CDK, permitindo fácil manutenção e escalabilidade. Todo o ciclo de vida da aplicação — desde testes até deploy — é orquestrado automaticamente via Amazon CodeCatalyst, garantindo qualidade e entrega contínua.</p>
+
+---
+
 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
 
