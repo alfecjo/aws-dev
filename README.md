@@ -44,7 +44,7 @@
 
 ---
 
-🔗 [![Linguagem](https://img.shields.io/badge/AWS-Cloud_Formation-black?style=for-the-badge)](./terraform-aws)
+🔗 [![Linguagem](https://img.shields.io/badge/AWS-Cloud_Formation-write?style=for-the-badge)](./terraform-aws)
 
 <p>O repositório CloudAcademy Terraform 1.x AWS Course fornece exemplos práticos de configuração de infraestrutura na AWS usando Terraform, organizados em exercícios progressivos. O Exercise 1 guia o provisionamento de uma VPC simples com sub-redes públicas, uma instância EC2 com Nginx, e regras de segurança personalizadas; já o Exercise 2 aprofunda-se em uma VPC mais robusta, com sub-redes públicas e privadas, gateway NAT, balanceador de carga (ALB) e grupo de escalabilidade automática (ASG). Ambos exigem configuração das variáveis workstation_ip e key_name para garantir acesso SSH seguro via IP único e par de chaves. A estrutura dos projetos inclui arquivos padrão do Terraform (main.tf, variables.tf, etc.), e instruções detalhadas são fornecidas para definir variáveis de ambiente em sistemas Linux e Windows.</p>
 
