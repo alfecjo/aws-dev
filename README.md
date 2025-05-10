@@ -20,7 +20,11 @@
 
 ---
 
-🔗 [![Linguagem](https://img.shields.io/badge/Linguagens-Python_&_Java-blue?style=for-the-badge)]()
+🔗 [![Linguagem](https://img.shields.io/badge/Vue-Python App-blue?style=for-the-badge)](./ca-python-serverless)
+
+<p>Esta aplicação serverless combina o poder do Vue.js no front-end com a simplicidade do Python no back-end. A interface é um site estático hospedado no Amazon S3, oferecendo uma experiência rápida e interativa para o usuário. As funcionalidades dinâmicas — como manipulação de dados e lógica de negócios — são executadas por funções Lambda escritas em Python, acessadas por meio do API Gateway. Essa arquitetura elimina a necessidade de servidores tradicionais, garantindo escalabilidade, alta disponibilidade e baixo custo operacional.</p>
+
+---
 
 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
