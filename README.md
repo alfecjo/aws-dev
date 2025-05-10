@@ -1,6 +1,10 @@
 # ☁️ AWS Dev — Arquitetura e Automação de Serviços na Nuvem
 
-🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
+🔗 [![Status](https://img.shields.io/badge/AWS-S3-yellow?style=for-the-badge)](./AWS-lab-S3)
+
+<p>Trata-se de um site estático, o que significa que ele foi construído para ser rápido, seguro e de fácil acesso, utilizando o serviço de armazenamento S3 — ideal para oferecer uma experiência confiável aos nossos convidados.</p>
+
+---
 
 🔗 [![Tecnologia](https://img.shields.io/badge/AWS-Cloud_Architecture-orange?style=for-the-badge)](https://aws.amazon.com/architecture/)
 
