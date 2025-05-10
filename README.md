@@ -14,7 +14,11 @@
 
 ---
 
-🔗 [![Tecnologia](https://img.shields.io/badge/AWS-Cloud_Architecture-orange?style=for-the-badge)](https://aws.amazon.com/architecture/)
+🔗 [![Tecnologia](https://img.shields.io/badge/AWS-SAM_App-orange?style=for-the-badge)](./AWSSamTestApp)
+
+<p>Este projeto demonstra uma aplicação serverless construída com o AWS SAM (Serverless Application Model), que utiliza funções Lambda e uma API Gateway para funcionar. Todo o código-fonte, testes e eventos simulados estão organizados em pastas específicas, e a infraestrutura é definida no arquivo template.yaml. A implantação é feita com o SAM CLI, que permite construir, testar e implantar a aplicação localmente usando Docker, proporcionando um ambiente muito próximo ao da AWS. É uma solução moderna e escalável, ideal para aplicações rápidas, sem servidores tradicionais.</p>
+
+---
 
 🔗 [![Linguagem](https://img.shields.io/badge/Linguagens-Python_&_Java-blue?style=for-the-badge)]()
 
